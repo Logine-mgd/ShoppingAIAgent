@@ -15,6 +15,16 @@
       "product": "ipad",
       "category": "electronics",
       "price": 4000
+    },
+    {
+      "product": "laptop",
+      "category": "electronics",
+      "price": 30000
+    },
+    {
+      "product": "laptop",
+      "category": "electronics",
+      "price": 30000
     }
   ]
 }
