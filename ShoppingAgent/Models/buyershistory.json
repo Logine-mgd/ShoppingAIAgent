@@ -1,0 +1,20 @@
+{
+  "user_id": "A123",
+  "history": [
+    {
+      "product": "laptop",
+      "category": "electronics",
+      "price": 30000
+    },
+    {
+      "product": "smartphone",
+      "category": "electronics",
+      "price": 8000
+    },
+    {
+      "product": "ipad",
+      "category": "electronics",
+      "price": 4000
+    }
+  ]
+}

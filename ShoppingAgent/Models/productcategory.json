@@ -1,0 +1,82 @@
+[
+  {
+    "product": "laptop",
+    "category": "electronics",
+    "price": 30000
+  },
+  {
+    "product": "smartphone",
+    "category": "electronics",
+    "price": 8000
+  },
+  {
+    "product": "bluetooth headphones",
+    "category": "electronics",
+    "price": 120
+  },
+  {
+    "product": "fitness tracker",
+    "category": "electronics",
+    "price": 150
+  },
+  {
+    "product": "running shoes",
+    "category": "sportswear",
+    "price": 280
+  },
+  {
+    "product": "yoga mat",
+    "category": "sportswear",
+    "price": 50
+  },
+  {
+    "product": "dumbbell set",
+    "category": "sportswear",
+    "price": 200
+  },
+  {
+    "product": "tennis racket",
+    "category": "sportswear",
+    "price": 180
+  },
+  {
+    "product": "cookware set",
+    "category": "home and kitchen",
+    "price": 1000
+  },
+  {
+    "product": "vacuum cleaner",
+    "category": "home and kitchen",
+    "price": 4000
+  },
+  {
+    "product": "air fryer",
+    "category": "home and kitchen",
+    "price": 6000
+  },
+  {
+    "product": "blender",
+    "category": "home and kitchen",
+    "price": 3000
+  },
+  {
+    "product": "novel",
+    "category": "books",
+    "price": 20
+  },
+  {
+    "product": "science fiction book",
+    "category": "books",
+    "price": 25
+  },
+  {
+    "product": "biography",
+    "category": "books",
+    "price": 30
+  },
+  {
+    "product": "barbie",
+    "category": "toys and games",
+    "price": 40
+  }
+]
