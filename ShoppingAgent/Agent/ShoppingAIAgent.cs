@@ -30,7 +30,7 @@ namespace ShoppingAgent.Agent
                 return "No justification provided.";
             }
             
-            var cleaned = justification.Replace('*', ' ').Trim();
+            var cleaned = justification.Replace('*', ' ').Replace('#', ' ').Trim();
             return cleaned;
         }
 
